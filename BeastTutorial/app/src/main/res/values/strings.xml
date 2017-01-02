@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BeastTutorial</string>
+    <string name="major_intro">Major: %1$s</string>
+    <string name="fun_fact_intro">Fun fact: %1$s</string>
+    <string name="cross_intro">Joined: %1$s</string>
+</resources>
