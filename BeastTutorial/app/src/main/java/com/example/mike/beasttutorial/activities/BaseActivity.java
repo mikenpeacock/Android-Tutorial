@@ -19,6 +19,7 @@ public class BaseActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         application = (BeastApplication) getApplication();
         bus = application.getBus();
+        bus.register(this);
     }
 
     @Override
