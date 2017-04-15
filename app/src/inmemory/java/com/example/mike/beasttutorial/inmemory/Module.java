@@ -9,5 +9,7 @@ import com.example.mike.beasttutorial.infrastructure.BeastApplication;
 public class Module {
     public static void Register(BeastApplication application){
         new InMemoryBrotherService(application);
+        new InMemoryCardsService(application);
+        new InMemoryPictureService(application);
     }
 }
