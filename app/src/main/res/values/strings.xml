@@ -4,6 +4,11 @@
     <string name="fun_fact_intro">Fun fact: %1$s</string>
     <string name="cross_intro">Joined: %1$s</string>
     <string name="intro_header">Introduction</string>
-    <string name="intro_body">This app was made by Mike Peacock and he is super awesome!
-    </string>
+    <string name="intro_body">This app was made by Mike Peacock and he is super awesome!</string>
+    <string name="follow_us">Follow us on Social Media</string>
+    <string name="rush_intro">What is Rush?</string>
+    <string name="rush_explained">Rush is recruitment</string>
+    <string name="rush_events">Rush Events</string>
+
+
 </resources>
